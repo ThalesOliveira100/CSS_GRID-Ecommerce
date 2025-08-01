@@ -60,7 +60,7 @@
 .categorias__list_item_container img {
     height: 331px;
     width: 100%;
-    object-fit: contain; /* Defini como a imagem será preenchida no container */
+    object-fit: contain; /* Define como a imagem será preenchida no container */
 }
 
 .categorias__list_item_container {
@@ -72,3 +72,8 @@
     box-shadow: 0px 4px 24px 0px #7B7B7B26;
 }
 
+@media screen and (max-width: 768px) {
+    .categorias {
+        padding: 80px 38px;
+    }
+}
