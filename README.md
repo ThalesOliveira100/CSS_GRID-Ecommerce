@@ -27,7 +27,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/monicahillman/3992-css-grid/tree/projeto-base) ou [baixá-lo](https://github.com/monicahillman/3992-css-grid/archive/refs/heads/projeto-base.zip).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/ThalesOliveira100/CSS_GRID-Ecommerce) ou [baixá-lo](https://github.com/ThalesOliveira100/CSS_GRID-Ecommerce/archive/refs/heads/main.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 
