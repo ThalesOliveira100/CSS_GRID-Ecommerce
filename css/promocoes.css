@@ -60,7 +60,7 @@
 
 .promocoes__link-item {
     font-family: var(--fonte-texto);
-    color: #780BF7;
+    color: var(--cor-fundo-botao);
     font-weight: 700;
     font-style: bold;
     size: 20px;
