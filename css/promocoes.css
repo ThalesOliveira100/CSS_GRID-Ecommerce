@@ -51,3 +51,19 @@
     margin-top: 16px;
     font-weight: 600;
 }
+
+.promocoes__link {
+    padding: 40px 0px 0px 0px;
+    display: flex;
+    justify-content: right;
+}
+
+.promocoes__link-item {
+    font-family: var(--fonte-texto);
+    color: #780BF7;
+    font-weight: 700;
+    font-style: bold;
+    size: 20px;
+    line-height: 120%;
+    
+}
