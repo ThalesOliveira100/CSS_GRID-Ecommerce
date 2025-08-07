@@ -42,19 +42,19 @@
 }
 
 .categorias__list_item-roupas {
-    grid-area: "roupas";
+    grid-area: roupas;
 }
 
 .categorias__list_item-decoracao {
-    grid-area: "decoracao";
+    grid-area: decoracao;
 }
 
 .categorias__list_item-canecas {
-    grid-area: "canecas";
+    grid-area: canecas;
 }
 
-.categorias__list_item-acessorio {
-    grid-area: "acessorios";
+.categorias__list_item-acessorios {
+    grid-area: acessorios;
 }
 
 .categorias__list_item_container img {
