@@ -27,6 +27,10 @@
     list-style-type: none;
 }
 
+.rodape__coluna_redes-sociais, .rodape__coluna_pagamentos {
+    text-align: center;
+}
+
 .rodape {
     padding: 60px 12.5%;
     background-color: var(--cor-texto-principal);
