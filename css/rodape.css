@@ -27,6 +27,11 @@
     list-style-type: none;
 }
 
+.rodape__coluna_list-redes-sociais img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 0 3px none;
+}
+
 .rodape__coluna_redes-sociais, .rodape__coluna_pagamentos {
     text-align: center;
 }
@@ -70,6 +75,10 @@
 .rodape__coluna_list_item a {
     color: var(--cor-texto);
     text-decoration: none;
+}
+
+.rodape__coluna_list_item a:hover {
+    color: var(--cor-destaque-botao);
 }
 
 .rodape__coluna_list_item {
