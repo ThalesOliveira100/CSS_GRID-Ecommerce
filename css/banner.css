@@ -35,6 +35,10 @@
     border: none
 }
 
+.banner__container-botao:hover {
+    outline: 3px solid var(--cor-destaque-botao);
+}
+
 .banner__imagem {
     width: 100%;
 }
