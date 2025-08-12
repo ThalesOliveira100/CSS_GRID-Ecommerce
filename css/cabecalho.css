@@ -25,8 +25,29 @@
     font-family: var(--fonte-texto);
 }
 
+.cabecalho__nav_list_link-sobre:hover, 
+.cabecalho__nav_list_link-login:hover {
+    text-decoration: none;
+    transition: color 0.3s ease, background-color 0.2s ease;
+    color: var(--cor-destaque-botao);
+}
+
+.cabecalho__nav_list_item a img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 0 3px none;
+}
+
 .cabecalho__nav_list_item-input {
     position: relative;
+}
+
+.cabecalho__nav_list_input:hover {
+    outline: 3px solid var(--cor-destaque-botao);
+}
+
+.cabecalho__nav_list_input:focus {
+    box-shadow: 0 0 0 3px var(--cor-destaque-botao);; /* ajuste pro seu tom */
+    outline: none;
 }
 
 .cabecalho__nav_list_input {
