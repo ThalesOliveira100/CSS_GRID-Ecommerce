@@ -73,7 +73,7 @@
 }
 
 .categorias__list__item:hover {
-    border: 3px solid var(--cor-destaque-botao);
+    outline: 3px solid var(--cor-destaque-botao);
 }
 
 @media screen and (max-width: 768px) {
