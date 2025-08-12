@@ -46,7 +46,7 @@
 }
 
 .cabecalho__nav_list_input:focus {
-    box-shadow: 0 0 0 3px var(--cor-destaque-botao);; /* ajuste pro seu tom */
+    box-shadow: 0 0 0 3px var(--cor-destaque-botao);
     outline: none;
 }
 

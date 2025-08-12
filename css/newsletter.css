@@ -44,6 +44,15 @@
     font-weight: 400;
 }
 
+.newsletter__container-input:hover {
+    outline: 3px solid var(--cor-destaque-botao);
+}
+
+.newsletter__container-input:focus {
+    box-shadow: 0 0 0 3px var(--cor-destaque-botao);
+    outline: none;
+}
+
 .newsletter__container-input::placeholder {
     font-family: var(--fonte-texto);
     color: var(--cor-texto-principal);
@@ -64,6 +73,10 @@
     font-weight: 700;
     border: none;
     cursor: pointer;
+}
+
+.newsletter__container-botao:hover {
+    outline: 3px solid var(--cor-destaque-botao);
 }
 
 @media screen and (max-width: 768px) {
